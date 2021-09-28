@@ -1,0 +1,12 @@
+C:\Users\Nara\source\repos\Exercise\Exercise\bin\Debug\net5.0\Exercise.Domain.deps.json
+C:\Users\Nara\source\repos\Exercise\Exercise\bin\Debug\net5.0\Exercise.Domain.dll
+C:\Users\Nara\source\repos\Exercise\Exercise\bin\Debug\net5.0\ref\Exercise.Domain.dll
+C:\Users\Nara\source\repos\Exercise\Exercise\bin\Debug\net5.0\Exercise.Domain.pdb
+C:\Users\Nara\source\repos\Exercise\Exercise\obj\Debug\net5.0\Exercise.Domain.csproj.AssemblyReference.cache
+C:\Users\Nara\source\repos\Exercise\Exercise\obj\Debug\net5.0\Exercise.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nara\source\repos\Exercise\Exercise\obj\Debug\net5.0\Exercise.Domain.AssemblyInfoInputs.cache
+C:\Users\Nara\source\repos\Exercise\Exercise\obj\Debug\net5.0\Exercise.Domain.AssemblyInfo.cs
+C:\Users\Nara\source\repos\Exercise\Exercise\obj\Debug\net5.0\Exercise.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nara\source\repos\Exercise\Exercise\obj\Debug\net5.0\Exercise.Domain.dll
+C:\Users\Nara\source\repos\Exercise\Exercise\obj\Debug\net5.0\ref\Exercise.Domain.dll
+C:\Users\Nara\source\repos\Exercise\Exercise\obj\Debug\net5.0\Exercise.Domain.pdb

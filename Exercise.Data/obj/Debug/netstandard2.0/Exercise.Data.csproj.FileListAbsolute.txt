@@ -1,0 +1,9 @@
+C:\Users\Nara\source\repos\Exercise\Exercise.Data\bin\Debug\netstandard2.0\Exercise.Data.deps.json
+C:\Users\Nara\source\repos\Exercise\Exercise.Data\bin\Debug\netstandard2.0\Exercise.Data.dll
+C:\Users\Nara\source\repos\Exercise\Exercise.Data\obj\Debug\netstandard2.0\Exercise.Data.csprojAssemblyReference.cache
+C:\Users\Nara\source\repos\Exercise\Exercise.Data\obj\Debug\netstandard2.0\Exercise.Data.AssemblyInfoInputs.cache
+C:\Users\Nara\source\repos\Exercise\Exercise.Data\obj\Debug\netstandard2.0\Exercise.Data.AssemblyInfo.cs
+C:\Users\Nara\source\repos\Exercise\Exercise.Data\bin\Debug\netstandard2.0\Exercise.Data.pdb
+C:\Users\Nara\source\repos\Exercise\Exercise.Data\obj\Debug\netstandard2.0\Exercise.Data.csproj.CoreCompileInputs.cache
+C:\Users\Nara\source\repos\Exercise\Exercise.Data\obj\Debug\netstandard2.0\Exercise.Data.dll
+C:\Users\Nara\source\repos\Exercise\Exercise.Data\obj\Debug\netstandard2.0\Exercise.Data.pdb
